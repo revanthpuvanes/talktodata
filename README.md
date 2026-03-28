@@ -47,7 +47,7 @@ pyttsx3 (Text-to-Speech)
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/revanthpuvanes/voice_agent.git
+git clone https://github.com/revanthpuvanes/talktodata.git
 cd voice-bi-analyst
 ```
 
