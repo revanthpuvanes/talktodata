@@ -17,6 +17,7 @@ This project combines **speech recognition, multi-agent orchestration, and data 
 ---
 
 ## 🧠 Architecture
+```
 User Voice Input
 ↓
 Whisper (Speech-to-Text)
@@ -28,7 +29,7 @@ BI Analysis Tool (pandas execution)
 Text Response
 ↓
 pyttsx3 (Text-to-Speech)
-
+```
 ---
 
 ## 🛠️ Tech Stack
