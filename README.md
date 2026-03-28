@@ -48,7 +48,7 @@ pyttsx3 (Text-to-Speech)
 ### 1. Clone the repo
 ```
 git clone https://github.com/revanthpuvanes/talktodata.git
-cd voice-bi-analyst
+cd talktodata
 ```
 
 ### 2. Create virtual environment
